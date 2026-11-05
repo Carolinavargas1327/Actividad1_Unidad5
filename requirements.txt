@@ -1,11 +1,8 @@
+transformers
+torch
 streamlit
 pandas
-numpy
 plotly
-seaborn
-matplotlib
-scikit-learn
-
 
 
 https://github.com/Carolinavargas1327/reto-streamlit-sensores.git
