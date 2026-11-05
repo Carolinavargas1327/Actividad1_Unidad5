@@ -1,5 +1,0 @@
-transformers
-torch
-streamlit
-pandas
-plotly
