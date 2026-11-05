@@ -3,6 +3,3 @@ torch
 streamlit
 pandas
 plotly
-
-
-https://github.com/Carolinavargas1327/reto-streamlit-sensores.git
