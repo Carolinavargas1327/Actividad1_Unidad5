@@ -1,0 +1,6 @@
+%%writefile requirements.txt
+transformers
+torch
+streamlit
+pandas
+plotly
